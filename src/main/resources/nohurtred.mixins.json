@@ -7,7 +7,7 @@
 
   ],
   "client": [
-    "HurtColorMixin"
+    "OverlayTextureMixin"
   ],
   "injectors": {
     "defaultRequire": 1
